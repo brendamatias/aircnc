@@ -5,7 +5,14 @@
   "repository": "https://github.com/brendamatias/aircnc-server.git",
   "author": "<brendamatias.sobral@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
