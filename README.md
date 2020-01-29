@@ -41,4 +41,4 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 - Executar a aplicação: `yarn start` ou `npm start`; 
 ---
 
-### <a href="http://linkedin.com/in/leonardoalmeida99">LinkedIn</a>
+### <a href="https://www.linkedin.com/in/brenda-matias/">LinkedIn</a>
